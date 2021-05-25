@@ -1,8 +1,15 @@
 Harapan yang saat ini dikerjakan
 -Programming
 *Web
+>Dasar HTML CSS JS
+>EM6
+>Bootstrap ato Tailwind
+>Node  JS
 *Android
+>Dasar Java / Kotlin
+>Gradle
 *Desktop
+>VisualBasic
 -Bahasa inggris
 *Writing
 *Speaking
